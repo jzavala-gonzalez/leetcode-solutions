@@ -1,3 +1,4 @@
+# First try! 38ms beats 84.77%, 16.78MB beats 80.26%
 from typing import List
 class Solution:
     def findMin(self, nums: List[int]) -> int:
